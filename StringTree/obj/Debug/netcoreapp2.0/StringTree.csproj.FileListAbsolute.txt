@@ -9,3 +9,14 @@ C:\workspace\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.AssemblyIn
 C:\workspace\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.AssemblyInfo.cs
 C:\workspace\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.dll
 C:\workspace\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.pdb
+C:\workspace\GitTree\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.deps.json
+C:\workspace\GitTree\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.runtimeconfig.json
+C:\workspace\GitTree\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.runtimeconfig.dev.json
+C:\workspace\GitTree\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.dll
+C:\workspace\GitTree\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.pdb
+C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.csprojAssemblyReference.cache
+C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.csproj.CoreCompileInputs.cache
+C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.AssemblyInfoInputs.cache
+C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.AssemblyInfo.cs
+C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.dll
+C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.pdb

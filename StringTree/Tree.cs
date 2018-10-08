@@ -13,10 +13,16 @@ namespace StringTree
 
             foreach(string data in TheBaseData)
             {
-                
+                int cycles = 1;
                 if(data.StartsWith(" "))
                 {
-                    Console.WriteLine(data + "1");
+                    do
+                    {
+                        cycles++;
+                        data.Remove(1, 1);
+                    }
+                    while(data.StartsWith(" "));
+                    Console.WriteLine(data + cycles);
                 }
                 else
                 {
@@ -41,5 +47,7 @@ namespace StringTree
         {
 
         }
+
+        
     }
 }

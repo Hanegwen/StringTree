@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\StringTree\\StringTree\\StringTree.csproj",
+      "projectUniqueName": "C:\\workspace\\GitTree\\StringTree\\StringTree\\StringTree.csproj",
       "projectName": "StringTree",
-      "projectPath": "C:\\workspace\\StringTree\\StringTree\\StringTree.csproj",
+      "projectPath": "C:\\workspace\\GitTree\\StringTree\\StringTree\\StringTree.csproj",
       "packagesPath": "C:\\Users\\Michael.Morrone\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\StringTree\\StringTree\\obj\\",
+      "outputPath": "C:\\workspace\\GitTree\\StringTree\\StringTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
