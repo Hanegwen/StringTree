@@ -6,6 +6,7 @@ namespace StringTree
 {
     class Tree
     {
+        List<TreeNode> nodes = new List<TreeNode>();
         bool isReady = false;
         public void LoadText()
         {
@@ -13,6 +14,7 @@ namespace StringTree
 
             foreach(string data in TheBaseData)
             {
+                string localData = data;
                 int cycles = 1;
                 if(data.StartsWith(" "))
                 {
@@ -28,6 +30,8 @@ namespace StringTree
                 {
                     Console.WriteLine(data);
                 }
+
+                TreeNode data = new TreeNode();
             }
 
             isReady = true;
@@ -38,9 +42,9 @@ namespace StringTree
             return isReady;
         }
 
-        public void GetNode(int someReference)
+        public void GetNode(int nodeNumber)
         {
-
+            Console.WriteLine(nodes[nodeNumber]);
         }
 
         public void WriteOutLineFile()
