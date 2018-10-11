@@ -20,3 +20,14 @@ C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.As
 C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.AssemblyInfo.cs
 C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.dll
 C:\workspace\GitTree\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.pdb
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.deps.json
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.runtimeconfig.json
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.runtimeconfig.dev.json
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.dll
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\bin\Debug\netcoreapp2.0\StringTree.pdb
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.csprojAssemblyReference.cache
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.csproj.CoreCompileInputs.cache
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.AssemblyInfoInputs.cache
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.AssemblyInfo.cs
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.dll
+E:\Columbia\Senior\Algorithms\StringTree\StringTree\obj\Debug\netcoreapp2.0\StringTree.pdb
