@@ -14,7 +14,7 @@ namespace StringTree
             Console.WriteLine("Press 1 To Try and Output a List");
             Console.WriteLine("Press 2 To Find a Child Node");
 
-            Console.WriteLine("DEBUG: Press 4 To Print Children with Parents");
+            //Console.WriteLine("DEBUG: Press 4 To Print Children with Parents");
             string Input = Console.ReadLine();
 
             switch(Input)
@@ -35,9 +35,9 @@ namespace StringTree
                     tree.GetNode(Console.ReadLine());
                     break;
 
-                case "4":
-                    tree.DebugParentAndChildren();
-                    break;
+                //case "4":
+                    //tree.DebugParentAndChildren();
+                    //break;
                 default:
                     break;
             }

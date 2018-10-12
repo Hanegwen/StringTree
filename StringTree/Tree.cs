@@ -28,11 +28,22 @@ namespace StringTree
             int whiteForLast = 100;
             for(int i = 0; i < nodes.Count; i++)
             {
+                int count = 0;
+                foreach (char letter in nodes[i].nodeData)
+                {
+                    if(letter == ' ')
+                    {
+                        count++;
+                    }
+                    else if(letter == '\t')
+                    {
+                        count += 3;
+                    }
+                }
 
-
-                int count = nodes[i].ToString().TakeWhile(c => c == ' ').Count();
+                //int count = nodes[i].ToString().TakeWhile(c => c == ' ').Count();
                 //int tabCount = nodes[i].ToString().TakeWhile(Char.).Count();
-                Console.WriteLine("WhiteSpace " + count);
+                //Console.WriteLine("WhiteSpace " + count);
 
                 if(count > whiteForLast)
                 {
